@@ -1,0 +1,7 @@
+# Theme colors: New England fog, harbor navy, and a lighthouse amber
+[theme]
+base = "light"
+primaryColor = "#B86A00"
+backgroundColor = "#EEF2F4"
+secondaryBackgroundColor = "#DCE4E9"
+textColor = "#16324A"
