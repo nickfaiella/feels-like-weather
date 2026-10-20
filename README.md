@@ -44,9 +44,8 @@ pytest
 
 The tests use fake API responses, so they run without internet. They cover the feels-like words, unit conversion, finding "now" in the hourly forecast, and loading the full app.
 
-## Deploy
+<img width="896" height="767" alt="Screenshot 2026-10-20 at 3 00 32 PM" src="https://github.com/user-attachments/assets/8d621fe0-5d6f-48bf-acc6-04316bc7e259" />
 
-1. Push this repo to GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io), sign in with GitHub, and pick this repo with `app.py` as the main file.
+Go to: https://nickfaiella-feels-like-weather-app-8pibt0.streamlit.app/
 
 Built with help from Claude (Anthropic).
